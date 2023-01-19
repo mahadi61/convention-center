@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: #ffff;
+}
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A0826;
+}
+
+
+/* navbar css */
+.nav-logo{
+    font-size: 22px;
+    color: #3E3E3E;
+}
+
+
+/* //navbar css */
+
+/* image slider css */
+.btn-book-now{
+    padding: 15px 35px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #ffff;
+    color: #3F87F5;
+}
+/*// image slider css */
+
+/* wedding section start */
+.btn-album{
+    padding: 5px 20px;
+    color: #ffffff;
+    background-color: #3F87F5;
+}
+
+/* wedding section end */
+
+/* package area css start */
+.card-heading{
+    font-size: 36px;
+    color: #231D4F;
+    font-weight: 700;
+}
+.card-heading2{
+    font-size: 28px;
+    color: #231D4F;
+    font-weight: 700;
+}
+.btn-plan{
+    background-color: #F496D1;
+    width: 230px;
+}
+/* package area css end */
+
+/* footer area css start */
+.footer-area{
+    background-color: #0B0D17;
+    
+}
+.footer-text{
+    color: #D9DBE1;
+}
+.footer-img{
+    width: 300px;
+}
+/* footer area css end */
